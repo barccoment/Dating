@@ -1,0 +1,18 @@
+{
+    "require": {
+        "twig/twig": "~1.0",
+        "symfony/finder": "~2.6",
+        "symfony/event-dispatcher": "~2.6",
+        "stripe/stripe-php": "2.*",
+        "beatswitch/lock": "*.*",
+        "codeception/codeception": "2.*",
+        "codeception/specify": "*",
+        "codeception/verify": "*",
+        "knplabs/gaufrette": "0.1.*",
+        "vlucas/phpdotenv": "^2.2",
+        "webvariants/babelcache": "~2.0",
+        "league/oauth2-server": "*",
+        "guzzlehttp/guzzle": "^6.1",
+        "nqxcode/phpmorphy": "1.0"
+    }
+}
